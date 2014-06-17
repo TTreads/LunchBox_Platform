@@ -1,4 +1,4 @@
-Remmly_Platform
+Lunch Box Platform
 ===============
 
 <h3>V.1.0.0</h3>
