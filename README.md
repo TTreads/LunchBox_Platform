@@ -3,7 +3,7 @@ Lunch Box Platform
 
 <h3>V.1.0.0</h3>
 
-Remmly's Open Source Social Networking Platform. Is designed for anyone to create a simple social networking site of their own. The platform was first design for Dowling College. Its goal was to keep students connected more on a educational platform. Its very simple and easy to use. Motifying the color scheme and connecting to your own mysql database makes it a breeze to adapt. 
+Lunchbox's Open Source Social Networking Platform. Is designed for anyone to create a simple social networking site of their own. The platform was first design for Dowling College. Its goal was to keep students connected more on a educational platform. Its very simple and easy to use. Motifying the color scheme and connecting to your own mysql database makes it a breeze to adapt. 
 
 Founded by Tyler Treadwell <br>
 Contact - ttreads@live.com <br>
